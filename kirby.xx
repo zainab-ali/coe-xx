@@ -1,0 +1,108 @@
+KIRBY
+
+LEGEND
+a - black - 4 strands
+b - pink - 4 strands
+c - magenta - 4 strands
+
+PATTERN
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                      aaaaaaaaaaaa                        aaaaaaaa                                          
+                      aaaaaaaaaaaa                        aaaaaaaa                                          
+                  aaaaaaccccccccaaaaaa                  aaccbbbbccaaaaaaaaaaaaaa                            
+                  aaaaaaccccccccaaaaaa                  aaccbbbbccaaaaaaaaaaaaaa                            
+                aaaaccbbbbbbbbbbbbccaaaa              aaccbbbbbbbbbbccccccccccaaaaaa                        
+                aaaaccbbbbbbbbbbbbccaaaa              aaccbbbbbbbbbbccccccccccaaaaaa                        
+              aaaabbbbbbbbbbbbbbbbbbbbaaaa            aabbbbbbbbbbbbbbbbbbbbbbbbccaaaa                      
+              aaaabbbbbbbbbbbbbbbbbbbbaaaa            aabbbbbbbbbbbbbbbbbbbbbbbbccaaaa                      
+              aabbbbbbbbbbccccbbccbbbbbbaa            aabbbbbbbbbbbbbbbbbbbbbbbbbbccaaaa                    
+              aabbbbbbbbbbccccbbccbbbbbbaa            aabbbbbbbbbbbbbbbbbbbbbbbbbbccaaaa                    
+            aaaabbbbbbbbbbbbaabbbbaabbbbccaa          aabbbbbbbbbbbbbbbbbbccccbbccbbccaaaaaaaa              
+            aaaabbbbbbbbbbbbaabbbbaabbbbccaa          aabbbbbbbbbbbbbbbbbbccccbbccbbccaaaaaaaa              
+          aaaabbbbbbbbbbbbccaabbccaabbbbccaa          aaccbbbbbbbbbbbbbbbbbbaabbbbaabbbbbbbbbbaa            
+          aaaabbbbbbbbbbbbccaabbccaabbbbccaa          aaccbbbbbbbbbbbbbbbbbbaabbbbaabbbbbbbbbbaa            
+          aaccbbbbbbbbbbbbccaabbbbaabbbbbbaaaa          aabbbbbbbbbbbbbbbbccaabbccaabbbbbbbbbbbbaa          
+          aaccbbbbbbbbbbbbccaabbbbaabbbbbbaaaa          aabbbbbbbbbbbbbbbbccaabbccaabbbbbbbbbbbbaa          
+        aaaabbbbbbbbbbccccbbaabbbbaaccbbbbbbaaaa        aaccbbbbbbbbbbbbbbccaabbbbaabbbbbbbbbbbbaa          
+        aaaabbbbbbbbbbccccbbaabbbbaaccbbbbbbaaaa        aaccbbbbbbbbbbbbbbccaabbbbaabbbbbbbbbbbbaa          
+        aabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaa        aaccbbbbbbbbbbccccbbaabbbbaabbbbbbbbbbbbaa          
+        aabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaa        aaccbbbbbbbbbbccccbbaabbbbaabbbbbbbbbbbbaa          
+        aabbbbbbbbbbbbbbbbbbbbbbccbbbbbbbbbbbbaa        aaccbbbbbbbbbbbbbbbbbbbbbbbbbbccbbbbccaa            
+        aabbbbbbbbbbbbbbbbbbbbbbccbbbbbbbbbbbbaa        aaccbbbbbbbbbbbbbbbbbbbbbbbbbbccbbbbccaa            
+        aaccbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccaaaa        aaccbbbbbbbbbbbbbbbbbbbbccbbbbccaaaaaa              
+        aaccbbbbbbbbbbbbbbbbbbbbbbbbbbbbccccaaaa        aaccbbbbbbbbbbbbbbbbbbbbccbbbbccaaaaaa              
+          aaaaaaccbbbbbbbbbbbbbbbbbbbbbbccaaaa          aaaaccbbbbbbbbbbbbbbbbbbbbbbbbccccccccaaaa          
+          aaaaaaccbbbbbbbbbbbbbbbbbbbbbbccaaaa          aaaaccbbbbbbbbbbbbbbbbbbbbbbbbccccccccaaaa          
+            aaccccccbbbbbbbbbbbbbbbbbbccccaa          aaaaccccccccccbbbbbbbbbbbbbbbbccccccccccccccaa        
+            aaccccccbbbbbbbbbbbbbbbbbbccccaa          aaaaccccccccccbbbbbbbbbbbbbbbbccccccccccccccaa        
+          aaccbbccccccccbbbbbbbbbbbbccccccccaa        aaccccccccbbccccbbbbbbbbbbbbccccccccccccccccccaa      
+          aaccbbccccccccbbbbbbbbbbbbccccccccaa        aaccccccccbbccccbbbbbbbbbbbbccccccccccccccccccaa      
+        aaccccccccccccccccbbbbbbccccccccccccaaaa    aaccccccccccccccccccbbbbbbccccaaccccccccccccccccaa      
+        aaccccccccccccccccbbbbbbccccccccccccaaaa    aaccccccccccccccccccbbbbbbccccaaccccccccccccccccaa      
+        aaccccccccccccccccaaaaccccccccccccccaaaa    aaccccccccccccccccaaccccccaaaaaaaaccccccccccccccaa      
+        aaccccccccccccccccaaaaccccccccccccccaaaa    aaccccccccccccccccaaccccccaaaaaaaaccccccccccccccaa      
+          aaaaaaaaaaaaaaaa    aaaaaaaaaaaaaaaa        aaaaaaaaaaaaaaaaaaaaaaaaaa    aaaaaaaaaaaaaaaa        
+          aaaaaaaaaaaaaaaa    aaaaaaaaaaaaaaaa        aaaaaaaaaaaaaaaaaaaaaaaaaa    aaaaaaaaaaaaaaaa        
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
+            aaaaaa  aaaaaaaaaaaaaa  aaaaaa                aaaaaaaaaa  aaaaaaaaaaaa  aaaaaaaa                
+            aaaaaa  aaaaaaaaaaaaaa  aaaaaa                aaaaaaaaaa  aaaaaaaaaaaa  aaaaaaaa                
+          aabbbbbbaaccccbbbbbbccccaabbbbbbaa            aaaaccbbbbccaaaaccccccccaaaaccbbccaaaa              
+          aabbbbbbaaccccbbbbbbccccaabbbbbbaa            aaaaccbbbbccaaaaccccccccaaaaccbbccaaaa              
+        aabbbbbbccbbbbbbbbbbbbbbbbbbccbbbbbbaa          aaccbbbbbbbbbbbbbbccbbbbccccccbbbbccaa              
+        aabbbbbbccbbbbbbbbbbbbbbbbbbccbbbbbbaa          aaccbbbbbbbbbbbbbbccbbbbccccccbbbbccaa              
+        aabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaa          aaccbbbbbbbbbbbbbbbbaaccbbaabbaabbbbaa              
+        aabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaa          aaccbbbbbbbbbbbbbbbbaaccbbaabbaabbbbaa              
+        aabbbbccbbbbbbbbbbbbbbbbbbbbbbccbbbbaa          aaccbbbbbbbbbbbbbbbbccaabbccaabbccaaaa              
+        aabbbbccbbbbbbbbbbbbbbbbbbbbbbccbbbbaa          aaccbbbbbbbbbbbbbbbbccaabbccaabbccaaaa              
+        aabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccaa          aaaaccbbbbbbbbbbccccbbaabbbbaaccbbbbaa              
+        aabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbccaa          aaaaccbbbbbbbbbbccccbbaabbbbaaccbbbbaa              
+          aabbbbbbbbbbccccbbbbccccbbbbbbbbaa              aaaaccbbbbbbbbbbbbbbbbbbbbbbbbbbbbccaa            
+          aabbbbbbbbbbccccbbbbccccbbbbbbbbaa              aaaaccbbbbbbbbbbbbbbbbbbbbbbbbbbbbccaa            
+          aaccbbbbbbbbbbaabbbbbbaabbbbbbccaa              aaccbbbbbbbbbbbbbbbbbbbbbbaaaabbbbccaa            
+          aaccbbbbbbbbbbaabbbbbbaabbbbbbccaa              aaccbbbbbbbbbbbbbbbbbbbbbbaaaabbbbccaa            
+          aaccbbbbbbbbccaabbbbccaabbbbbbccaa              aabbbbbbbbbbbbbbbbbbbbbbccaaaaccbbccaa            
+          aaccbbbbbbbbccaabbbbccaabbbbbbccaa              aabbbbbbbbbbbbbbbbbbbbbbccaaaaccbbccaa            
+          aaccbbbbbbbbccaabbbbccaabbbbbbccaa              aabbbbbbbbbbbbbbbbbbbbccaaaaaaccbbccaa            
+          aaccbbbbbbbbccaabbbbccaabbbbbbccaa              aabbbbbbbbbbbbbbbbbbbbccaaaaaaccbbccaa            
+          aaccbbbbccccbbaabbbbbbaaccccbbccaa              aabbbbbbbbbbbbbbbbbbbbccaaaaaaccbbccaa            
+          aaccbbbbccccbbaabbbbbbaaccccbbccaa              aabbbbbbbbbbbbbbbbbbbbccaaaaaaccbbccaa            
+          aaccbbccccccbbbbbbbbbbbbbbbbbbccaa              aabbbbbbbbbbbbbbbbbbbbccaaaaaaccbbccaa            
+          aaccbbccccccbbbbbbbbbbbbbbbbbbccaa              aabbbbbbbbbbbbbbbbbbbbccaaaaaaccbbccaa            
+            aaccccccccccbbbbccbbbbbbbbccaa                aaccbbbbbbbbbbbbbbbbbbaaaaaaaabbbbccaa            
+            aaccccccccccbbbbccbbbbbbbbccaa                aaccbbbbbbbbbbbbbbbbbbaaaaaaaabbbbccaa            
+            aaccccbbccccccbbbbbbbbbbccccaa                aaccbbbbbbbbbbbbbbbbbbaaaaaaaabbbbaa              
+            aaccccbbccccccbbbbbbbbbbccccaa                aaccbbbbbbbbbbbbbbbbbbaaaaaaaabbbbaa              
+            aaccccbbccccccbbbbbbccccccaa                    aaccbbbbbbbbbbbbbbbbaaaaaaccbbccaa              
+            aaccccbbccccccbbbbbbccccccaa                    aaccbbbbbbbbbbbbbbbbaaaaaaccbbccaa              
+            aaccccbbccccaaaaccccccccccaa                  aaccccccbbbbbbbbbbbbbbccaaccbbccaa                
+            aaccccbbccccaaaaccccccccccaa                  aaccccccbbbbbbbbbbbbbbccaaccbbccaa                
+              aaccccccccaaccccccccccccaa                  aaccccccccccbbbbbbbbbbbbbbbbccccaa                
+              aaccccccccaaccccccccccccaa                  aaccccccccccbbbbbbbbbbbbbbbbccccaa                
+              aaccccccccaaccccccccccaaaa                  aabbccccccccccccccccccccccccccccaaaa              
+              aaccccccccaaccccccccccaaaa                  aabbccccccccccccccccccccccccccccaaaa              
+                aaccccaaaaccccccccccaa                    aaccccccccccaaaaaaaaaaaaccccccccaaaa              
+                aaccccaaaaccccccccccaa                    aaccccccccccaaaaaaaaaaaaccccccccaaaa              
+                  aaaa  aaccccccccccaa                    aaccccccccaaaa        aaccccccccaaaa              
+                  aaaa  aaccccccccccaa                    aaccccccccaaaa        aaccccccccaaaa              
+                        aaaaccccccaaaa                    aaaaccccaaaa            aaccccccaa                
+                        aaaaccccccaaaa                    aaaaccccaaaa            aaccccccaa                
+                          aaccccccaa                        aaaaaaaa                aaaaaa                  
+                          aaccccccaa                        aaaaaaaa                aaaaaa                  
+                          aaaaccaaaa                                                                        
+                          aaaaccaaaa                                                                        
+                            aaaaaa                                                                          
+                            aaaaaa                                                                          
+                                                                                                            
+                                                                                                            
+                                                                                                            
+                                                                                                            
